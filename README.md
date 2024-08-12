@@ -43,21 +43,21 @@ To compile and run this application, you need:
   <tr>
   </tr>
   <tr>
-    <td><img src="screenshots/month_calendar.png" width=480 height=271></td>
-    <td><img src="screenshots/welcome_page.png" width=480 height=271></td>
-    <td><img src="screenshots/homepage.png" width=480 height=271></td>
+    <td><img src="screenshots/month_calendar.png" width=360 height=271></td>
+    <td><img src="screenshots/welcome_page.png" width=360 height=271></td>
+    <td><img src="screenshots/homepage.png" width=360 height=271></td>
   </tr>
 
   <tr>
-    <td><img src="screenshots/date_convertor.png" width=480 height=271></td>
-    <td><img src="screenshots/fastings.png" width=480 height=271></td>
-    <td><img src="screenshots/holidays.png" width=480 height=271></td>
+    <td><img src="screenshots/date_convertor.png" width=360 height=271></td>
+    <td><img src="screenshots/fastings.png" width=360 height=271></td>
+    <td><img src="screenshots/holidays.png" width=360 height=271></td>
   </tr>
 
   <tr>
-    <td><img src="screenshots/fixed_holidays.png" width=480 height=271></td>
-    <td><img src="screenshots/basic_info_of_a_year.png" width=480 height=271></td>
-    <td><img src="screenshots/find_week_day.png" width=480 height=271></td>
+    <td><img src="screenshots/fixed_holidays.png" width=360 height=271></td>
+    <td><img src="screenshots/basic_info_of_a_year.png" width=360 height=271></td>
+    <td><img src="screenshots/find_week_day.png" width=360 height=271></td>
   </tr>
   
   <tr>
