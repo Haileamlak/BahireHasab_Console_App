@@ -43,24 +43,51 @@ To compile and run this application, you need:
   <tr>
   </tr>
   <tr>
-    <td><img src="screenshots/month_calendar.png" width=360 height=271></td>
-    <td><img src="screenshots/welcome_page.png" width=360 height=271></td>
-    <td><img src="screenshots/homepage.png" width=360 height=271></td>
+    <td><img src="screenshots/month_calendar.png" width=270></td>
+    <td><img src="screenshots/welcome_page.png" width=270></td>
+    <td><img src="screenshots/homepage.png" width=270></td>
   </tr>
 
   <tr>
-    <td><img src="screenshots/date_convertor.png" width=360 height=271></td>
-    <td><img src="screenshots/fastings.png" width=360 height=271></td>
-    <td><img src="screenshots/holidays.png" width=360 height=271></td>
+    <td><img src="screenshots/date_convertor.png" width=270></td>
+    <td><img src="screenshots/fastings.png" width=270></td>
+    <td><img src="screenshots/holidays.png" width=270></td>
   </tr>
 
   <tr>
-    <td><img src="screenshots/fixed_holidays.png" width=360 height=271></td>
-    <td><img src="screenshots/basic_info_of_a_year.png" width=360 height=271></td>
-    <td><img src="screenshots/find_week_day.png" width=360 height=271></td>
+    <td><img src="screenshots/fixed_holidays.png" width=270></td>
+    <td><img src="screenshots/basic_info_of_a_year.png" width=270></td>
+    <td><img src="screenshots/find_week_day.png" width=270></td>
   </tr>
   
   <tr>
     <td><img src="screenshots/thank_you_page.png" width=900></td>
   </tr>
 </table>
+
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/1.jpg" width=270 height=480></td>
+    <td><img src="assets/screenshots/2.jpg" width=270 height=480></td>
+  </tr>
+
+  <tr>
+    <td><img src="assets/screenshots/3.jpg" width=270 height=480></td>
+    <td><img src="assets/screenshots/4.jpg" width=270 height=480></td>
+  </tr>
+  
+
+  <tr>
+    <td><img src="assets/screenshots/5.jpg" width=270 height=480></td>
+    <td><img src="assets/screenshots/6.jpg" width=270 height=480></td>
+    <td><img src="assets/screenshots/7.jpg" width=270 height=480></td>
+  </tr>
+  
+  <tr>
+    <td><img src="assets/screenshots/8.jpg" width=270 height=480></td>
+    <td><img src="assets/screenshots/9.jpg" width=270 height=480></td>
+  </tr>
+        
+ </table>
