@@ -38,3 +38,29 @@ To compile and run this application, you need:
     ./calendar-app
     ```
 ## Visuals
+
+<table>
+  <tr>
+  </tr>
+  <tr>
+    <td><img src="screenshots/welcome_page.png" width=300></td>
+    <td><img src="screenshots/homepage.png" width=300></td>
+    <td><img src="screenshots/month_calendar.png" width=300></td>
+  </tr>
+
+  <tr>
+    <td><img src="screenshots/date_convertor.png" width=300></td>
+    <td><img src="screenshots/fastings.png" width=300></td>
+    <td><img src="screenshots/holidays.png" width=300></td>
+  </tr>
+
+  <tr>
+    <td><img src="screenshots/fixed_holidays.png" width=300></td>
+    <td><img src="screenshots/basic_info_of_a_year.png" width=300></td>
+    <td><img src="screenshots/find_week_day.png" width=300></td>
+  </tr>
+  
+  <tr>
+    <td><img src="screenshots/thank_you_page.png" width=900></td>
+  </tr>
+</table>
