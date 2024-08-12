@@ -2,7 +2,7 @@
 
 ## Overview
 
-This C++ console application provides a set of features for working with both Ethiopian and Gregorian calendars. It includes functionalities like monthly calendar display, date conversion, holiday and fasting date calculations, and finding the weekday for any given date.
+This C++ console application was created to offer users a range of functionalities regarding Ethiopian and Gregorian calendars. It consists of facilities like displaying the calendar of the current month, converting dates between Ethiopian to Gregorian, determining the fasting and holiday dates and knowing which day of the week a certain date is.
 
 ## Features
 
