@@ -43,9 +43,9 @@ To compile and run this application, you need:
   <tr>
   </tr>
   <tr>
+    <td><img src="screenshots/month_calendar.png" width=300></td>
     <td><img src="screenshots/welcome_page.png" width=300></td>
     <td><img src="screenshots/homepage.png" width=300></td>
-    <td><img src="screenshots/month_calendar.png" width=300></td>
   </tr>
 
   <tr>
