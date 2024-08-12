@@ -37,18 +37,4 @@ To compile and run this application, you need:
     ```bash
     ./calendar-app
     ```
-
-### Directory Structure
-
-```plaintext
-├── src
-│   ├── main.cpp           # Main entry point of the application
-│   ├── calendar.cpp       # Calendar-related logic (display, conversion, etc.)
-│   ├── calendar.h         # Calendar class/interface declarations
-│   ├── number_converter.cpp # Logic for number conversions between systems
-│   ├── number_converter.h   # Number conversion class/interface declarations
-│   ├── holidays.cpp       # Logic for calculating holidays and fasting periods
-│   ├── holidays.h         # Holiday and fasting class/interface declarations
-├── README.md              # Project documentation
-└── LICENSE                # License file
-```
+## Visuals
